@@ -45,5 +45,4 @@
    </a>
 </p>
 
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
 
