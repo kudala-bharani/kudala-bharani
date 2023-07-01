@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C, Java, SQL**
+- 💬 Ask me about **Java, C, SQL**
 
 - 📫 How to reach me **bharanikudala@gmail.com**
 
