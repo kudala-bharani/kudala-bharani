@@ -2,7 +2,10 @@
 
  I am Bharani, currently pursuing my Under Graduation in computer science from [GPREC](https://www.gprec.ac.in/). I am a tech enthusiast.
 
-<p>&nbsp;<img  src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="300">
+<p align="center">
+  <img src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="300">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharani-bunny&label=Profile%20views&color=0e75b6&style=flat" alt="kudala-bharani" /> </p>
 
