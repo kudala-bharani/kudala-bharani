@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java, C**
+- 💬 Ask me about **Java, C, SQL**
 
 - 📫 How to reach me **bharanikudala@gmail.com**
 
