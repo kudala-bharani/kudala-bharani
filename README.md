@@ -2,10 +2,6 @@
 
  I am Bharani, pursuing my undergraduate computer science degree from [GPREC](https://www.gprec.ac.in/). I am a tech enthusiast.
 
-<p align="center">
-  <img src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="300">
-</p>
-
 
 
 - 🌱 I’m currently learning **Web Development**
