@@ -1,13 +1,12 @@
 <h1 align="center"> Hi, 👋 I am Bharani Kumar Reddy. Glad to see you here!</h1>
 
- I am Bharani, currently pursuing my Under Graduation in computer science from [GPREC](https://www.gprec.ac.in/). I am a tech enthusiast.
+ I am Bharani, pursuing my undergraduate computer science degree from [GPREC](https://www.gprec.ac.in/). I am a tech enthusiast.
 
 <p align="center">
   <img src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="300">
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharani-bunny&label=Profile%20views&color=0e75b6&style=flat" alt="kudala-bharani" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -32,19 +31,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 
-## 📈 Statistics 
 
-<p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kudala-bharani&show_icons=true&theme=radical" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kudala-bharani&theme=radical" />
-</p>
-
-
-<p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudala-bharani&layout=compact&theme=radical" />
-   <a href="https://github.com/kudala-bharani/AI-Assisted-Websites">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kudala-bharani&repo=AI-Assisted-Websites&theme=radical&show_owner=false" />
-   </a>
-</p>
 
 
