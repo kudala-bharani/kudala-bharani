@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Full-Stack Development & AI Integration**
 - 💬 Ask me about **Java, Python, React, or SQL**
 - 📫 Reach me at **bk784@nau.edu**
-- 🌍 Portfolio: [bharanikudala.github.io](https://bharanikudala.github.io)
+- 🌍 Portfolio: [bharani-kudala.me](https://bharani-kudala.me/)
 
 ---
 
