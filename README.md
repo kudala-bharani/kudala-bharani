@@ -47,7 +47,7 @@ A production-ready RAG knowledge system for capturing notes and turning them int
 - Added grounded Q&A with **OpenRouter**, cited source notes, tags, search, and query history
 - Secured multi-user data with **Supabase Auth** and row-level security
 - **Tech:** Next.js 14, React, TypeScript, Supabase, PostgreSQL, pgvector, OpenRouter, HuggingFace, Tailwind CSS
-- **[View Live Demo](https://ai-second-brain-beige.vercel.app/)**
+- **[View Live](https://ai-second-brain-beige.vercel.app/)**
 
 ### 🐝 [Word Hive Live](https://github.com/kudala-bharani/word-hive-live)
 
@@ -57,6 +57,7 @@ A multiplayer word puzzle experience designed for teams, remote meetings, and fr
 - Includes seven-letter puzzles, required center letters, word validation, and pangram bonuses
 - Delivers a clean, responsive interface across desktop and mobile devices
 - **Tech:** Next.js 14, React, JavaScript, Tailwind CSS
+- **[View Live](https://word-hive-live.vercel.app/)**
 
 ### 💰 [Finance Flow](https://github.com/kudala-bharani/Finanace-Flow-Updated)
 
@@ -65,6 +66,7 @@ A full-stack personal finance application for managing income, expenses, budgets
 - Built dashboards and analytics for understanding financial activity
 - Added budget goals, multi-account support, and currency conversion
 - **Tech:** React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Tailwind CSS
+- **[View Live](https://finance-flow-frontend-o34t.onrender.com/)**
 
 ---
 
